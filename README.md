@@ -24,4 +24,3 @@ A creative Python project that transforms video frames into ASCII art, featuring
 
 **Made with Python and a little Jungkook inspiration. 💜**
 
-Add setup and usage instructionsInclude the project file structure
